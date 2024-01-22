@@ -104,7 +104,7 @@ const Footer = () => {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 Avanish kumar. All rights reserved.
+          &copy; 2023 avanish kumar. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
