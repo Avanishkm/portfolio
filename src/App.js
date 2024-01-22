@@ -35,7 +35,7 @@ function App() {
   const [openModal, setOpenModal] = useState({ state: false, project: null });
   console.log(openModal)
   return (
-    <ThemeProvider theme={darkMode ? darkTheme : lightTheme}>
+    <ThemeProvider theme={darkMode ? darkTheme : ""}>
       <Router >
         <NavBar />
         <Body>
